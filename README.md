@@ -6,8 +6,10 @@ Features:
 
 * FTP client with AUTH SSL/TLS support
 * FXP support for direct transfer between FTP servers
-* Socks5 proxy support
-* Cross-platform (Windows XP+, Mac OS X 10.6+, Linux 2.6.23+)
-* [TOML](https://github.com/toml-lang/toml) based config files
-* IRC client with blowfish support
+* Cross-platform: Windows XP+, Mac OS X 10.6+, Linux 2.6.23+
+* Multi CPU architecture: x86, x64, ARM6+7 (Raspberry Pi 1/2)
+* Socks5 proxy client support
+* Built-in Socks5 proxy server
+* IRC client with blowfish encryption support
+* [TOML](https://github.com/toml-lang/toml) based configuration files
 * Administration by IRC commands
