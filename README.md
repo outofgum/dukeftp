@@ -11,5 +11,10 @@ Features:
 * Socks5 proxy client support
 * Built-in Socks5 proxy server
 * IRC client with blowfish encryption support
-* [TOML](https://github.com/toml-lang/toml) based configuration files
 * Administration by IRC commands
+* [TOML](https://github.com/toml-lang/toml) based configuration files
+* Written in modern programming language [Golang](https://golang.org/)
+
+Limitations:
+
+* No support for DHE-RSA SSL/TLS ciphers
