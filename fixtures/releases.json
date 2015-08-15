@@ -25,6 +25,28 @@
     "Movie.2014.MULTi.COMPLETE.BLURAY-Group": {
       "group": "group",
       "flags": {"disk": {}, "multi": {}, "retail": {}}
+    },
+    "Satan-Reading-DE-AUDIOBOOK-CD-FLAC-2015-GRP": {
+      "group": "grp",
+      "flags": {"abook": {}, "retail": {}},
+      "language": "german",
+      "section": "flac",
+      "source": "cd",
+      "year": 2015
+    },
+    "Artist-Album-DE-Abook-2014-Group": {
+      "group": "group",
+      "flags": {"abook": {}},
+      "language": "german",
+      "section": "mp3",
+      "year": 2014
+    },
+    "Show.S01D01.COMPLETE.BLURAY-GRP": {
+      "flags": {"disk": {}, "retail": {}},
+      "format": "bluray",
+      "group": "grp",
+      "language": "english",
+      "section": "tv"
     }
   },
   "section_detection": {
@@ -40,7 +62,6 @@
     "Movie.2008.NORDIC.AUDIOPACK.BluRay.x264-GRP":                     ["audiopack", "nordic"],
     "Movie.2014.MULTi.COMPLETE.BLURAY-Group":                          ["bluray", "english"],
     "Author.-.Book.2010.German.Retail.EPUB.eBook-GROUP":               ["ebook", "german"],
-    "Artist-Album-DE-Abook-2014-Group":                                ["abook", "german"],
     "Artist-Album-CDM-FLAC-199x-Group":                                ["flac", "english"],
     "Artist-Album-EP-FLAC-DE-2014-Group":                              ["flac", "german"],
     "Name.WinALL.Commercial.FONT-GRP":                                 ["font", "english"],
