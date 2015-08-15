@@ -18,3 +18,13 @@ Features:
 Limitations:
 
 * No support for DHE-RSA SSL/TLS ciphers
+
+Usage:
+
+dukeftp
+<dl>
+<dt>p "releasename"</dt>
+  <dd>Parse the release name and show extracted info. This can be used to test the section detector.</dd>
+<dt>s</dt>
+  <dd>Start the main application and connect to configured IRC networks.</dd>
+</dl>
