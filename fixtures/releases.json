@@ -11,35 +11,57 @@
   ],
   "details_detection": {
     "FakeRelease.2014-FakeGroupName_Int": {
-       "group": "fakegroupname",
-       "flags": {"internal": {}}
+      "flags": {"internal": {}},
+      "group": "fakegroupname",
+      "language": "english",
+      "year": 2014
     },
     "FakeRelease.2014-FakeGroupName": {
-       "group": "fakegroupname",
-       "flags": {}
+      "flags": {},
+      "group": "fakegroupname",
+      "language": "english",
+      "year": 2014
     },
     "FakeRelease.2014.iNTERNAL-FakeGroupName": {
-       "group": "fakegroupname",
-       "flags": {"internal": {}}
+      "flags": {"internal": {}},
+      "group": "fakegroupname",
+      "language": "english",
+      "year": 2014
     },
     "Movie.2014.MULTi.COMPLETE.BLURAY-Group": {
+      "flags": {"disk": {}, "multi": {}, "retail": {}},
       "group": "group",
-      "flags": {"disk": {}, "multi": {}, "retail": {}}
+      "language": "english",
+      "year": 2014
     },
     "Satan-Reading-DE-AUDIOBOOK-CD-FLAC-2015-GRP": {
-      "group": "grp",
       "flags": {"abook": {}, "retail": {}},
+      "group": "grp",
       "language": "german",
       "section": "flac",
       "source": "cd",
       "year": 2015
     },
+    "Test.2014-I_KnoW": {
+      "flags": {},
+      "group": "i_know",
+      "language": "english",
+      "year": 2014
+    },
     "Artist-Album-DE-Abook-2014-Group": {
-      "group": "group",
       "flags": {"abook": {}},
+      "group": "group",
       "language": "german",
       "section": "mp3",
       "year": 2014
+    },
+    "Artist-CDS-are.cool-2011-Group": {
+      "flags": {"retail": {}},
+      "group": "group",
+      "language": "english",
+      "section": "mp3",
+      "source": "",
+      "year": 2011
     },
     "Show.S01D01.COMPLETE.BLURAY-GRP": {
       "flags": {"disk": {}, "retail": {}},
@@ -58,6 +80,8 @@
     "The.App.v9.4.59.x86.Linux-Group":                                 ["0day", "english"],
     "The.App.v9.4.59-Group":                                           ["0day", "english"],
     "The.App.v2013.Build.150108-Group":                                ["0day", "english"],
+    "App.Pro.v1.1990-GRP":                                             ["0day", "english"],
+    "App.Multilanguage.Patch-GRP":                                     ["0day", "english"],
     "Game.USA.3DS.PROPER-Group":                                       ["3ds", "english"],
     "Movie.2008.NORDIC.AUDIOPACK.BluRay.x264-GRP":                     ["audiopack", "nordic"],
     "Movie.2014.MULTi.COMPLETE.BLURAY-Group":                          ["bluray", "english"],
@@ -70,7 +94,7 @@
     "Artist-Album-2CD-2011-Group":                                     ["mp3", "english"],
     "Artist-Album-SAT-DIRFIX-11-21-2014-Group":                        ["mp3", "english"],
     "Event_Live-SAT-05-25-2015-Group":                                 ["mp3", "english"],
-    "VA-Album-DE-19XX-XY":                                             ["mp3", "german"],
+    "VA-Album-DE-19XX-ABC":                                            ["mp3", "german"],
     "Artist-Track-x264-2014-Group":                                    ["mvid", "english"],
     "Artist-Track-x264-DE-2014-Group":                                 ["mvid", "german"],
     "Artist-Track-x264-DIRFIX-2014-Group":                             ["mvid", "english"],
@@ -83,11 +107,15 @@
     "Game.PS4-Group":                                                  ["ps4", "english"],
     "Game.EUR.PSP-Group":                                              ["psp", "english"],
     "Game.FRENCH.PSP-Group":                                           ["psp", "french"],
+    "Popshit.MULTiFORMAT.SCD.DVDR-GRP":                                ["sample", "english"],
+    "Reggae.MULTiFORMAT.SCD-GRP":                                      ["sample", "english"],
+    "Laboratory.SFX.MULTiFORMAT.LiBRARY-GRP":                          ["sample", "english"],
     "Show.2015.08.03.PDTV.x264-GRP":                                   ["tv", "english"],
     "Title.1x01.Pilot.DVDRip_XviD-SHITTAGGER":                         ["tv", "english"],
-    "Title.S02E13.Part.of.Title.1993.DVDRIP.XviD.CZ-ViD":              ["tv-cz", "czech"],
+    "Title.S02E13.Part.of.Title.1993.DVDRIP.XviD.CZ-GRP":              ["tv-cz", "czech"],
     "Title.E210.KOR.HDTV.XViD-GRP":                                    ["tv-kr", "korean"],
     "Title.S01E08.720p.WEBRip.H264-Group":                             ["tv-720", "english"],
+    "Animecrap.E052.1080p.WEBRip.x264-Group":                          ["tv-1080", "english"],
     "Series.S12E03.Title.GERMAN.DUBBED.DL.720p.WebHD.h264-Group":      ["tv-720-de", "german"],
     "Title.2014.SPANiSH.DOC.720p.HDTV.x264-Group":                     ["tv-720-es", "spanish"],
     "Title.S07E14.FRENCH.720p.BluRay.x264-Group":                      ["tv-720-fr", "french"],
@@ -96,7 +124,7 @@
     "Movie.REMASTERED.GERMAN.1974.DL.BDRiP.x264-Group":                ["x264-de", "german"],
     "Game.RF.XBOX360-Group":                                           ["xbox360", "english"],
     "Game.WIIU.READ.NFO-Group":                                        ["wiiu", "english"],
-    "Uglystuff.8.German.XXX.DVDRip.x264-CiCXXX":                       ["xxx-de", "german"],
+    "Uglystuff.8.German.XXX.DVDRip.x264-GERMANS":                      ["xxx-de", "german"],
     "Weirdstuff.DVDRip.Xvid.JAV.Censored-GRP":                         ["xxx-jp", "japanese"],
     "Porn.XXX.720P.WEBRIP.MP4-Group":                                  ["xxx-720", "english"],
     "Movie.Name.UNCUT.2012.GERMAN.DL.1080P.BLURAY.X264.DIRFIX-GRP":    ["x264-1080-de", "german"]
