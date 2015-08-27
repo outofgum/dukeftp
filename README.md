@@ -4,7 +4,7 @@ duke FTP is a FTP client with some custom features. It can be used for automatic
 
 Features:
 
-* FTP client with AUTH SSL/TLS support
+* FTP client with AUTH TLS support
 * FXP support for direct transfer between FTP servers
 * Cross-platform: Windows XP+, Mac OS X 10.6+, Linux 2.6.23+
 * Multi CPU architecture: x86, x64, ARM6+7 (Raspberry Pi 1/2)
@@ -19,7 +19,7 @@ Features:
 
 Limitations:
 
-* No [support]((https://github.com/golang/go/issues/7758)) for DHE-RSA SSL/TLS ciphers
+* No [support](https://github.com/golang/go/issues/7758) for DHE-RSA SSL/TLS ciphers
 
 Usage:
 
