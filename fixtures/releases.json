@@ -9,6 +9,9 @@
     "Group_Int",
     "iNTERNAL-GROUP"
   ],
+  "invalid_section":[
+    "Fakeware.German-BLZiSO"
+  ],
   "details_detection": {
     "FakeRelease.2014-FakeGroupName_Int": {
       "flags": {"internal": {}},
@@ -32,6 +35,7 @@
       "flags": {"disk": {}, "multi": {}, "retail": {}},
       "group": "group",
       "language": "english",
+      "source": "bluray",
       "year": 2014
     },
     "Satan-Reading-DE-AUDIOBOOK-CD-FLAC-2015-GRP": {
@@ -68,7 +72,8 @@
       "format": "bluray",
       "group": "grp",
       "language": "english",
-      "section": "tv"
+      "section": "tv",
+      "source": "bluray"
     }
   },
   "section_detection": {
@@ -83,12 +88,22 @@
     "App.Pro.v1.1990-GRP":                                             ["0day", "english"],
     "App.Multilanguage.Patch-GRP":                                     ["0day", "english"],
     "Game.USA.3DS.PROPER-Group":                                       ["3ds", "english"],
+    "App.ISO-CORE":                                                    ["app", "english"],
+    "App.Linux-ZWTiSO":                                                ["app", "english"],
     "Movie.2008.NORDIC.AUDIOPACK.BluRay.x264-GRP":                     ["audiopack", "nordic"],
     "Movie.2014.MULTi.COMPLETE.BLURAY-Group":                          ["bluray", "english"],
+    "A.thing.German-BLZiSO":                                           ["bookware", "german"],
     "Author.-.Book.2010.German.Retail.EPUB.eBook-GROUP":               ["ebook", "german"],
     "Artist-Album-CDM-FLAC-199x-Group":                                ["flac", "english"],
     "Artist-Album-EP-FLAC-DE-2014-Group":                              ["flac", "german"],
     "Name.WinALL.Commercial.FONT-GRP":                                 ["font", "english"],
+    "Game.CODEX":                                                      ["game", "english"],
+    "Game.Linux-ACTiVATED":                                            ["game", "english"],
+    "Game.MacOSX-ACTiVATED":                                           ["game", "english"],
+    "Game.DLC-CPY":                                                    ["game-dlc", "english"],
+    "Game.Update.Incl.DLC-BAT":                                        ["game-dox", "english"],
+    "Game.Update-v1.02-CPY":                                           ["game-dox", "english"],
+    "Game.Update.3.Incl.DLC-CPY":                                      ["game-dox", "english"],
     "Pornsite.XXX.iMAGESET-Group":                                     ["imageset", "english"],
     "Artist-Album-2014-Group":                                         ["mp3", "english"],
     "Artist-Album-2CD-2011-Group":                                     ["mp3", "english"],
@@ -112,7 +127,9 @@
     "Laboratory.SFX.MULTiFORMAT.LiBRARY-GRP":                          ["sample", "english"],
     "Show.2015.08.03.PDTV.x264-GRP":                                   ["tv", "english"],
     "Title.1x01.Pilot.DVDRip_XviD-SHITTAGGER":                         ["tv", "english"],
+    "Show.Valley.S01D01.PAL.DVD9-GRP":                                 ["tv", "english"],
     "Title.S02E13.Part.of.Title.1993.DVDRIP.XviD.CZ-GRP":              ["tv-cz", "czech"],
+    "Title.S06E24.FINAL.ITALIAN.DVDRip.x264-CPY":                      ["tv-it", "italian"],
     "Title.E210.KOR.HDTV.XViD-GRP":                                    ["tv-kr", "korean"],
     "Title.S01E08.720p.WEBRip.H264-Group":                             ["tv-720", "english"],
     "Animecrap.E052.1080p.WEBRip.x264-Group":                          ["tv-1080", "english"],
