@@ -89,6 +89,7 @@
     "App.Multilanguage.Patch-GRP":                                     ["0day", "english"],
     "Game.USA.3DS.PROPER-Group":                                       ["3ds", "english"],
     "App.ISO-CORE":                                                    ["app", "english"],
+    "App.ISO-rG":                                                      ["app", "english"],
     "App.Linux-ZWTiSO":                                                ["app", "english"],
     "Movie.2008.NORDIC.AUDIOPACK.BluRay.x264-GRP":                     ["audiopack", "nordic"],
     "Movie.2014.MULTi.COMPLETE.BLURAY-Group":                          ["bluray", "english"],
