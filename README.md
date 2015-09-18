@@ -9,7 +9,7 @@ Features:
 * Cross-platform: Windows XP+, Mac OS X 10.6+, Linux 2.6.23+
 * Multi CPU architecture: x86, x64, ARM6+7 (Raspberry Pi 1/2)
 * Static compiled binary, needs no extra installation of libraries
-* Socks5 proxy client support
+* Socks5 proxy support for FTP, IRC and Web access
 * Built-in Socks5 proxy server
 * IRC client with blowfish encryption support
 * Administration by IRC commands
@@ -19,7 +19,7 @@ Features:
 
 Limitations:
 
-* No [support](https://github.com/golang/go/issues/7758) for DHE-RSA SSL/TLS ciphers
+* No [support](https://github.com/golang/go/issues/7758) for DHE-RSA SSL/TLS ciphers. Connecting to a server that only supports these outdated ciphers will result in an "handshake failure" error.
 
 Usage:
 
