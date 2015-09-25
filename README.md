@@ -21,6 +21,13 @@ Limitations:
 
 * No [support](https://github.com/golang/go/issues/7758) for DHE-RSA SSL/TLS ciphers. Connecting to a server that only supports these outdated ciphers will result in an "handshake failure" error.
 
+Installation:
+* Download a "Source code" file from releases and unpack it or clone the git.
+* Download a duke version that matches your system from releases.
+* Unpack duke and copy the binary to the bin folder.
+* Edit the config files, at least an irc config for an admin channel is needed to start duke.
+* Start duke binary. You will be asked for a password that is used to crypt and decrypt the config files.
+
 Usage:
 
 **dukeftp**
@@ -28,5 +35,9 @@ Usage:
 <dt>p releasename</dt>
   <dd>Parse the release name and show extracted info. This can be used to test the section detector.</dd>
 <dt>s</dt>
-  <dd>Start the main application and connect to configured IRC networks.</dd>
+  <dd>Start the main application and connect to configured IRC networks. This is the default mode if no parameter is specified.</dd>
+<dt>c</dt>
+  <dd>Crypt the config files.</dd>
+<dt>d</dt>
+  <dd>Decrypt the config files.</dd>
 </dl>
