@@ -2,6 +2,14 @@
 
 duke FTP is a FTP client with some custom features. It can be used for automatic, rule-based transferring of directories.
 
+**duke is still in early development state. Make sure to read the changelog of newer versions when upgrading. Please report all crashes of the latest version.**
+
+Issue / Task tracker: [https://github.com/duketeam/dukeftp/issues](https://github.com/duketeam/dukeftp/issues)
+
+Milestones: [https://github.com/duketeam/dukeftp/milestones](https://github.com/duketeam/dukeftp/milestones)
+
+We accept Bitcoin donations to support the development of the project: 1NGUfE7zzpQo8BW4Yj3LFvWQ1Hu1PWJquK
+
 Features:
 
 * FTP client with AUTH TLS support
@@ -20,6 +28,7 @@ Features:
 Limitations:
 
 * No [support](https://github.com/golang/go/issues/7758) for DHE-RSA SSL/TLS ciphers. Connecting to a server that only supports these outdated ciphers will result in an "handshake failure" error.
+* Downloading / FXP not finished yet
 
 Installation:
 * Download a "Source code" file from releases and unpack it or clone the git.
