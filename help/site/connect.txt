@@ -1,0 +1,2 @@
+connect
+Connect to all sites
