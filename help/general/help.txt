@@ -1,7 +1,7 @@
 Show help
 <module or command>
 
-Glossar:
+Glossary:
 [] optional
 <> placeholder
 ... series
