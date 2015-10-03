@@ -1,6 +1,7 @@
 Search for a release
-[+sitename]... [-maxresults] <release or text>
-sitename: optional site names can be give to search only on those sites
-maxresults: maximum number of shown results per site, default is 20
+[+sitename]... [-maxresults] [!filter]... <release or text>
+sitename    - optional site names can be give to search only on those sites
+maxresults  - maximum number of shown results per site, default is 20. use -all to show all results.
+filter      - excluded word that is used filter the results
 
-Example: !search +site1 +site2 -50 s01e01 1080p
+Example: !search +site1 +site2 -50 !internal s01e01 1080p
