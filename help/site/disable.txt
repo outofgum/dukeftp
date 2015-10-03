@@ -1,2 +1,3 @@
 Disable a site
-[site]
+<sitename>...
+sitename can be * for all sites

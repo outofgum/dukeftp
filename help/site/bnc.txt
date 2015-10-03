@@ -1,2 +1,2 @@
 List site bouncer
-[site]
+<sitename>

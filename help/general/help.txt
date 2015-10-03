@@ -1,5 +1,5 @@
 Show help
-<module or command>
+[module or command]
 
 Glossary:
 [] optional

@@ -1,2 +1,2 @@
 Parse a releasename and show extracted info
-[release]
+<release>

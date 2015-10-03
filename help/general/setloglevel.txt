@@ -1,2 +1,2 @@
 Set log level of a module
-[module] [level]
+<module> <level>
