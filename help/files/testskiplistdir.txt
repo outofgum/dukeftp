@@ -1,0 +1,2 @@
+Test if skiplist allows a subdir for a releasename
+<release/subdir>
