@@ -1,0 +1,1 @@
+Reload download, group, language, section and skiplist config files.
