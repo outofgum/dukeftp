@@ -30,7 +30,7 @@ We accept Bitcoin donations to support the development of the project: 1NGUfE7zz
 ## Limitations
 
 * No [support](https://github.com/golang/go/issues/7758) for DHE-RSA SSL/TLS ciphers. Connecting to a server that only supports these outdated ciphers will result in an "handshake failure" error.
-* Downloading / FXP not finished yet
+* FXP / automated transfer not finished yet
 
 ## Installation
 * Download a "Source code" file from [releases]( https://github.com/duketeam/dukeftp/releases) and unpack it or clone the git.
