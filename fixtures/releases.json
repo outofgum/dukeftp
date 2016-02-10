@@ -122,6 +122,8 @@
     "Artist-Track-DVDRiP-RETAIL-x264-2013-GROUP":                      ["mvid", "english"],
     "Artist-Throw_It_Up-DDC-x264-2015-GRP":                            ["mvid", "english"],
     "Artist-China_In_Your_Hand-x264-1987-GRP":                         ["mvid", "english"],
+    "Game.v1.0.Android-GRPPDA":                                        ["pda", "english"],
+    "App.v1.0.ARM.PPC.Retail-GRPPDA":                                  ["pda", "english"],
     "Game.PS3-Group":                                                  ["ps3", "english"],
     "GAME_USA_JB_PS3-GROUP":                                           ["ps3", "english"],
     "Game.PS4-Group":                                                  ["ps4", "english"],
