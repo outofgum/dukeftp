@@ -20,6 +20,7 @@ We accept Bitcoin donations to support the development of the project: 1NGUfE7zz
 * Multi CPU architecture: x86, x64, ARM6+7 (Raspberry Pi 1/2)
 * Static compiled binary, needs no extra installation of libraries
 * Socks5 proxy support for FTP, IRC and Web access
+* Database client for PostgreSQL and MySQL
 * Built-in Socks5 proxy server
 * IRC client with blowfish encryption support
 * Administration by IRC commands
