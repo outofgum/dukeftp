@@ -17,7 +17,7 @@ We accept Bitcoin donations to support the development of the project: 1NGUfE7zz
 * FTP client with [FTPS](https://en.wikipedia.org/wiki/FTPS) support
 * [FXP](https://en.wikipedia.org/wiki/File_eXchange_Protocol) support for direct transfer between FTP servers
 * Cross-platform: Windows XP+, Mac OS X 10.6+, Linux 2.6.23+
-* Multi CPU architecture: x86, x64, ARM6+7 (Raspberry Pi 1/2)
+* Multi CPU architecture: x86, x64, ARM6/7/8 (Raspberry Pi 1/2/3)
 * Static compiled binary, needs no extra installation of libraries
 * Socks5 proxy support for FTP, IRC and Web access
 * Database client for PostgreSQL and MySQL
