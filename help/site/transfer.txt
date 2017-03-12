@@ -1,0 +1,4 @@
+Transfer a release
+<source sitename> <path> <destination sitename> <path>
+
+Example: !transfer +site1 /ISO/Linux-REDHAT +site2 /ISO

@@ -1,2 +1,4 @@
 Download a release
 <sitename> <path>
+
+Example: !download +site1 /ISO/Linux-REDHAT
