@@ -14,32 +14,32 @@
   ],
   "details_detection": {
     "FakeRelease.2014-FakeGroupName_Int": {
-      "flags": {"internal": {}},
+      "flags": ["internal"],
       "group": "fakegroupname",
       "language": "english",
       "year": 2014
     },
     "FakeRelease.2014-FakeGroupName": {
-      "flags": {},
+      "flags": [],
       "group": "fakegroupname",
       "language": "english",
       "year": 2014
     },
     "FakeRelease.2014.iNTERNAL-FakeGroupName": {
-      "flags": {"internal": {}},
+      "flags": ["internal"],
       "group": "fakegroupname",
       "language": "english",
       "year": 2014
     },
     "Movie.2014.MULTi.COMPLETE.BLURAY-Group": {
-      "flags": {"disk": {}, "multi": {}, "retail": {}},
+      "flags": ["disk", "multi", "retail"],
       "group": "group",
       "language": "english",
       "source": "bluray",
       "year": 2014
     },
     "Satan-Reading-DE-AUDIOBOOK-CD-FLAC-2015-GRP": {
-      "flags": {"abook": {}, "retail": {}},
+      "flags": ["abook", "retail"],
       "group": "grp",
       "language": "german",
       "section": "flac",
@@ -47,20 +47,20 @@
       "year": 2015
     },
     "Test.2014-I_KnoW": {
-      "flags": {},
+      "flags": [],
       "group": "i_know",
       "language": "english",
       "year": 2014
     },
     "Artist-Album-DE-Abook-2014-Group": {
-      "flags": {"abook": {}},
+      "flags": ["abook"],
       "group": "group",
       "language": "german",
       "section": "mp3",
       "year": 2014
     },
     "Artist-CDS-are.cool-2011-Group": {
-      "flags": {"retail": {}},
+      "flags": ["retail"],
       "group": "group",
       "language": "english",
       "section": "mp3",
@@ -68,7 +68,7 @@
       "year": 2011
     },
     "Show.S01D01.COMPLETE.BLURAY-GRP": {
-      "flags": {"disk": {}, "retail": {}},
+      "flags": ["disk", "retail"],
       "format": "bluray",
       "group": "grp",
       "language": "english",
