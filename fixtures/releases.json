@@ -1,15 +1,15 @@
 {
-  "valid_names":[
+  "valid_names": [
     "ValidName-Group_Int",
     "ValidName.2000.Group_Int",
     "ValidName.2000.iNTERNAL-GROUP",
     "ValidName.2000.Test-Group_Int"
   ],
-  "invalid_names":[
+  "invalid_names": [
     "Group_Int",
     "iNTERNAL-GROUP"
   ],
-  "invalid_section":[
+  "invalid_section": [
     "Fakeware.German-BLZiSO"
   ],
   "details_detection": {
