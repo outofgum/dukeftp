@@ -25,18 +25,16 @@ We accept Bitcoin donations to support the development of the project: 1NGUfE7zz
 * Administration by IRC commands
 * [TOML](https://github.com/toml-lang/toml) based configuration files that can be edited manually
 
-## Installation
-* Download a "Source code" file from [releases]( https://github.com/outofgum/dukeftp/releases) and unpack it or clone the git.
-* Download a duke version that matches your system architecture from [releases]( https://github.com/outofgum/dukeftp/releases).
-* Unpack duke and copy the binary to the bin folder.
-* Edit the config files, at least a correct IRC config for an admin channel is needed to start duke.
-* Start the duke binary. You will be asked for a password that is used to crypt and decrypt the config files.
+## Documentation
+
+* [Frequently asked questions](https://github.com/outofgum/dukeftp/blob/master/documents/FAQ.md)
+* [Getting Started](https://github.com/outofgum/dukeftp/blob/master/documents/getting-started.md)
 
 ## Milestones
 
 You can see the remaining tasks for the milestones of the project:
 
-- [Download bot](https://github.com/outofgum/dukeftp/milestone/2)
-- [Request fill bot](https://github.com/outofgum/dukeftp/milestone/3)
-- [Pre bot](https://github.com/outofgum/dukeftp/milestone/4)
-- [Autotrader](https://github.com/outofgum/dukeftp/milestone/5)
+* [Download bot](https://github.com/outofgum/dukeftp/milestone/2)
+* [Request fill bot](https://github.com/outofgum/dukeftp/milestone/3)
+* [Pre bot](https://github.com/outofgum/dukeftp/milestone/4)
+* [Autotrader](https://github.com/outofgum/dukeftp/milestone/5)
