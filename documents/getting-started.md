@@ -72,7 +72,7 @@ Save the file and you are ready to start duke.
 
 ## Start duke
 
-Start the duke binary. You will be asked for a password that is used to encrypt and decrypt the config files that contain sensitive data.
+Start the duke binary. You will be asked for a password that is used to encrypt and decrypt the config files that contain sensitive data. When you set up the password, you will be asked to confirm it to make sure that you did not make a typo.
 Duke should connect to the configured IRC server now and join the admin channel.
 
 ## Administrate duke

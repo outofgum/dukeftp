@@ -27,6 +27,7 @@ We accept Bitcoin donations to support the development of the project: 1NGUfE7zz
 
 ## Documentation
 
+* [Change Log](https://github.com/outofgum/dukeftp/blob/master/documents/CHANGELOG.md)
 * [Frequently asked questions](https://github.com/outofgum/dukeftp/blob/master/documents/FAQ.md)
 * [Getting Started](https://github.com/outofgum/dukeftp/blob/master/documents/getting-started.md)
 
