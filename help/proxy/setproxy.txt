@@ -1,0 +1,2 @@
+Sets the proxy to use for a site. To delete a proxy for a site, give an empty name
+<sitename> <proxyname>

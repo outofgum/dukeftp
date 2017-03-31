@@ -1,4 +1,6 @@
-Download a release
-<sitename> <path>
+Download a release to the configured download directory or site
+[+sitename] <path>
+[+sitename] release
 
 Example: !download +site1 /ISO/Linux-REDHAT
+!download Linux-REDHAT
